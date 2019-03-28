@@ -1,0 +1,66 @@
+﻿{
+  "TC01": {
+    "name": "哈利波特试听",
+    "channelid": "14754946",
+    "activitycode": "d9edd382e4f6284b",
+    "channel": "s",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->哈利波特->试听->调登录"
+  },
+  "TC02": {
+    "name": "哈利波特正价",
+    "channelid": "14754946",
+    "activitycode": "d9edd382e4f6284b",
+    "channel": "s",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->哈利波特->正价->调登录"
+  },
+  "TC03": {
+    "name": "哈利波特拼团1",
+    "channelid": "14754946",
+    "activitycode": "d9edd382e4f6284b",
+    "channel": "s",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->哈利波特->拼团1->调登录"
+  },
+  "TC04": {
+    "name": "哈利波特拼团2",
+    "channelid": "14754945",
+    "activitycode": "56cfe0be322ac2c3",
+    "channel": "r",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->哈利波特->拼团2->调登录"
+  },
+  "TC05": {
+    "name": "大红狗试听",
+    "channelid": "14755709",
+    "activitycode": "33eb88921dead7f0",
+    "channel": "s",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->大红狗->试听->调登录"
+  },
+  "TC06": {
+    "name": "大红狗正价",
+    "channelid": "14755709",
+    "activitycode": "33eb88921dead7f0",
+    "channel": "s",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->大红狗->正价->调登录"
+  },
+  "TC07": {
+    "name": "大红狗拼团1",
+    "channelid": "14755709",
+    "activitycode": "33eb88921dead7f0",
+    "channel": "s",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->大红狗->拼团1->调登录"
+  },
+  "TC08": {
+    "name": "大红狗拼团2",
+    "channelid": "14755708",
+    "activitycode": "abba1f3fc555295e",
+    "channel": "r",
+    "channelkeyword": "",
+    "description": "列表页->清缓存->大红狗->拼团2->调登录"
+  }
+}
