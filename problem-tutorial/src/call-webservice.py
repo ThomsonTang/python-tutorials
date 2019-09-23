@@ -16,9 +16,9 @@ client.set_options(wsse=security)
 # id_type = {'value': '', 'type': 'WID'}
 id_type = {'value': ''}
 id = [id_type]
-event_oject = {'ID': id}
+event_obj = {'ID': id}
 business_process = {'comment': ''}
-content = client.service.Approve_Business_Process(event_oject, business_process)
+content = client.service.Approve_Business_Process(event_obj, business_process)
 print(content)
 # param2 = 'test'
 # param1_content = client.factory.create('ns0:EventObjectIDType')
